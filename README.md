@@ -1,5 +1,6 @@
+<img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" alt="My photo" width="300" align="left" style="border-radius:50%; margin-right:15px;">
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" alt="My photo" width="150" align="left" style="border-radius:50%; margin-right:15px;">
+
 
 <h3 align="center">Passionate about Development, Artificial Intelligence, and Geomatics 🌍</h3>
 

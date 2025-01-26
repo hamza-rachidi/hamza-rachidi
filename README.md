@@ -1,5 +1,8 @@
-<div align="center">
-  <img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" alt="My photo" width="300" align="left" style="border-radius:50%; margin-right:15px;">
+<div align="center" style="text-align: center;">
+  <img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" 
+       alt="My photo" 
+       width="300" 
+       style="border-radius:50%; margin: auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 

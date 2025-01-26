@@ -1,4 +1,6 @@
-<img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" alt="My photo" width="300" align="left" style="border-radius:50%; margin-right:15px;">
+<div align="center">
+  <img src="https://github.com/hamza-rachidi/hamza-rachidi/blob/main/images/github.jpg" alt="My photo" width="300" align="left" style="border-radius:50%; margin-right:15px;">
+</div>
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 
 
@@ -50,7 +52,7 @@
   - **Frontend**: HTML5, CSS, JavaScript.
   - **Database**: PostgreSQL.
 
-#### **3D Chess ♟️ | C++ and CMake**
+#### **3D Chess ♟️ 
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:
   - Fully modeled 3D chessboard with interactive piece movements.
@@ -59,6 +61,20 @@
   - Camera controls to adjust and view the board interactively.
 - **Technologies Used**:
   - Programming Language: **C++**
+  - Build Tool: **CMake**
+
+#### **🗺️ Mini-GIS Project | Backend Developer in a classteam **  
+- **Description**: A full-featured, user-friendly, free, and open-source Geographical Information System (GIS) designed for Unix platforms.  
+- **Key Features**:  
+  - **2D Mode**:  
+    - Load and visualize geospatial data locally in formats like **.shp**, **.geojson**, and **.tiff**.  
+    - Load Stream data from WMS (Web Map Service) and WFS (Web Feature Service).  
+    - Manage layers (reordering, renaming, deleting) and focus on specific ones.  
+    - Display entity information interactively in an attribute table.  
+  - **Session Management**: Save and restore layers to maintain the application's last state.  
+- **Technologies  Used**:  
+  - Programming Language: **C++**
+  - API: **GDAL**
   - Build Tool: **CMake**
 
 

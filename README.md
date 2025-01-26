@@ -24,7 +24,7 @@
 - 🎓 Currently studying information systems at ENSG engineering school
 - 💼 Had my first degree as a geodata engineer.
 - 🌱 Continuous learning of **Backend Development and Artificial Intelligence**.
-- 🔭 Focused on projects related to **Data and AI using Python and SQL AI, Nodejs, Web Development, Devops etc.**
+- 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops and Deployment etc.**
 - ❤️ I enjoy coding, exploring new technologies, and solving complex problems.
 
 ---

@@ -44,6 +44,7 @@
 ### 🚀 Iconic Projects I've Worked On:
 
 #### **IRESEN | Developed a Web Application to Monitoring Huge Solar Farms by Deploying a Deep Learning Computer Vision Model and Web Mapping ( watch the demo on my LinkedIn Profile ) **
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7015311359433134080" height="939" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model for computer vision.
 - **Key Features**:
   - **Site Prospection**: Identified optimal sites for new photovoltaic plants using web mapping.

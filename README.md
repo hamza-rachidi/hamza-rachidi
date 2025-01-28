@@ -43,7 +43,8 @@
 
 ### 🚀 Iconic Projects I've Worked On:
 
-#### **IRESEN | Developed a Web Application to Monitoring Huge Solar Farms by Deploying a Deep Learning Computer Vision Model and Web Mapping ( watch the demo on my LinkedIn Profile ) **
+#### **IRESEN | Developed a Web Application to Monitoring Huge Solar Farms by Deploying a Deep Learning Computer Vision Model and Web Mapping  **
+[Video Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model for computer vision.
 - **Key Features**:
   - **Site Prospection**: Identified optimal sites for new photovoltaic plants using web mapping.
@@ -68,7 +69,7 @@
   - Build Tool: **CMake**
 
 #### **🗺️ Mini-GIS Project | Backend Developer in a classteam **  
-[Vidéo ici](https://www.youtube.com/watch?v=YYriKDjRbh0)
+[Video Here](https://www.youtube.com/watch?v=YYriKDjRbh0)
 - **Description**: A full-featured, user-friendly, free, and open-source Geographical Information System (GIS) designed for Unix platforms.  
 - **Key Features**:  
   - **2D Mode**:  

@@ -27,7 +27,7 @@
 - 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops and Deployment etc.**
 - ❤️ I enjoy coding, exploring new technologies, and solving complex problems.
 
----
+
 
 ### ⚡ Technical Skills:
 <p>
@@ -44,7 +44,7 @@
 ### 🚀 Iconic Projects I've Worked On:
 
 #### **IRESEN | Developed a Web Application to Monitoring Huge Solar Farms by Deploying a Deep Learning Computer Vision Model and Web Mapping  **
-[Video Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
+[📽 Demo Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model for computer vision.
 - **Key Features**:
   - **Site Prospection**: Identified optimal sites for new photovoltaic plants using web mapping.
@@ -55,6 +55,17 @@
   - **Backend**: Python (Numpy, Pandas, GeoPandas, Matplotlib, Keras, TensorFlow, Flask, GDAL, Shap, SQLAlchemy, Folium).
   - **Frontend**: HTML5, CSS, JavaScript.
   - **Database**: PostgreSQL.
+ 
+#### **CI/CD DevOps | Automated Deployment and Continuous Integration for a Vehicle Management CLI**| Collabaration with one developer
+- **Objective**: Development of a CI/CD pipeline to automate the build, lint, testing, and deployment of a CLI application designed to interact with a vehicle management server. The project integrates continuous integration, containerization with Docker, and automated deployment to ensure software reliability and maintainability.
+- **Key Features**:
+• Fully Automated CI/CD Pipeline: Implemented GitHub Actions to streamline linting, unit testing with Jest, TypeScript compilation, and Docker image publishing.
+• Containerized CLI Application: Packaged the CLI using Docker file to ensure portability and reproducibility across different environments.
+• Continuous Deployment Workflow: Automated image build and push to Docker Hub on Git tag releases, synchronizing GitHub repository history with Docker image versions.
+• Robust Error Handling & Unit Testing: Validated the CLI commands (vehicle creation, listing, and deletion) through comprehensive Jest test cases and error simulations.
+- **Technologies Used**:
+  - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
+  - **Programming & Testing**: TypeScript, Jest, ESLint
 
 #### **3D Chess ♟️ 
 ![Demo](images/animation.gif)
@@ -82,8 +93,6 @@
   - Programming Language: **C++**
   - API: **GDAL**
   - Build Tool: **CMake**
-
-
 
 ---
 

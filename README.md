@@ -43,7 +43,7 @@
 
 ### 🚀 Iconic Projects I've Worked On:
 
-#### **IRESEN | Developed a Web Application to Monitor Huge Solar Farms by Deploying a Deep Learning Model for Computer Vision along with Web Mapping and Data Visualisation **
+#### **IRESEN | Developed a Web Application to Monitor Huge Solar Farms by Deploying a Deep Learning Model for Computer Vision along with Web Mapping and Data Visualisation**
 [📽 Demo Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model to detect thermal defects.
 - **Key Features**:
@@ -56,7 +56,7 @@
   - **Frontend**: HTML5, CSS, JavaScript.
   - **Database**: PostgreSQL.
  
-#### **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer **
+#### **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer**
 - **Objective**: Development of a CI/CD pipeline to automate the build, lint, testing, and deployment of a CLI application designed to interact with a vehicle management server. The project integrates continuous integration, containerization with Docker, and automated deployment to ensure software reliability and maintainability.
 - **Key Features**:
   - Developed a command line interface using Commander JavaScript framework that serves as a HTTP client for the server developed with Nodejs.   
@@ -68,7 +68,7 @@
   - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
   - **Programming & Testing**: TypeScript ( Commander ) , Jest, ESLint
 
-#### **3D Chess ♟️ **
+#### **3D Chess ♟️**
 ![Demo](images/animation.gif)
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:
@@ -80,7 +80,7 @@
   - Programming Language: **C++**
   - Build Tool: **CMake**
 
-#### **🗺️ Mini-GIS Project | Backend Developer in a classteam **  
+#### **🗺️ Mini-GIS Project | Backend Developer in a classteam**  
 [Video Here](https://www.youtube.com/watch?v=YYriKDjRbh0)
 - **Description**: A full-featured, user-friendly, free, and open-source Geographical Information System (GIS) designed for Unix platforms.  
 - **Key Features**:  

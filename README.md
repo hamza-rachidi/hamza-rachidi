@@ -96,6 +96,7 @@
   - Frontend Interface: **Qt**
   - API: **GDAL**
   - Build Tool: **CMake**
+  - Agile Methodology : **Scrum**
 
 #### **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
 - **Description**: Development of a QGIS plugin that enables users to extract, analyze, and visualize relative information around a selected point. The tool integrates coordinate transformation, reverse geocoding, spatial analysis, and buffers visualization.  

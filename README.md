@@ -43,7 +43,7 @@
 
 ### 🚀 Iconic Projects I've Worked On:
 
-#### **IRESEN | Developed a Web Application to Monitor Huge Solar Farms by Deploying a Deep Learning Model for Computer Vision along with Web Mapping and Data Visualisation**
+#### **☀️IRESEN | Developed a Web Application to Monitor Huge Solar Farms by Deploying a Deep Learning Model for Computer Vision along with Web Mapping and Data Visualisation**
 [📽 Demo Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model to detect thermal defects.
 - **Key Features**:
@@ -68,7 +68,7 @@
   - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
   - **Programming & Testing**: TypeScript ( Commander ) , Jest, ESLint
 
-#### **3D Chess ♟️**
+#### **♟️3D Chess **
 ![Demo](images/animation.gif)
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:
@@ -95,6 +95,20 @@
   - Frontend Interface: **Qt**
   - API: **GDAL**
   - Build Tool: **CMake**
+
+#### **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
+- **Description**: Development of a QGIS plugin that enables users to extract, analyze, and visualize relative information around a selected point. The tool integrates coordinate transformation, reverse geocoding, spatial analysis, and buffers visualization.  
+
+- **Key Features**:   
+  - Point Layer Selection: Allows users to choose from available point layers in their QGIS project.  
+  - Geographic Coordinate Display: Captures clicked points and displays their coordinates in WGS 84 (EPSG:4326).  
+  - Reverse Geocoding: Retrieves the nearest address, including street name, house number, INSEE code, and city name.  
+  - Buffer Zone Calculation Visualization: Generates a buffer around the selected point with a user-defined radius to compute the number of vector layer features within the buffer zone.  
+  
+- **Technologies  Used**: 
+  - Backend & Data Processing: **Python (Requests, PyQGIS)**.  
+  - API : **GéoPlateforme for reverse geocoding**, QGIS Python API.  
+  - Frontend: **Qt Designer, PyQt**.  
 
 ---
 

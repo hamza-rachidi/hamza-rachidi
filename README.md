@@ -27,8 +27,6 @@
 - 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops and Deployment etc.**
 - ❤️ I enjoy coding, exploring new technologies, and solving complex problems.
 
-
-
 ### ⚡ Technical Skills:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -68,7 +66,7 @@
   - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
   - **Programming & Testing**: TypeScript ( Commander ) , Jest, ESLint
 
-#### **♟️3D Chess **
+#### **♟️3D Chess**
 ![Demo](images/animation.gif)
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:

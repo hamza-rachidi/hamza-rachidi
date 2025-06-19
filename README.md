@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 
 
-<h3 align="center">Passionate about Development, Artificial Intelligence, and Geomatics 🌍</h3>
+<h3 align="center">Passionate about Software Engineering, Artificial Intelligence, and Geomatics 🌍</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-rachidi-igt" target="_blank">
@@ -21,10 +21,10 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🎓 Currently studying information systems at ENSG engineering school
+- 🎓 Currently studying information systems and data science at ENSG engineering school
 - 💼 Had my first degree as a geodata engineer.
 - 🌱 Continuous learning of **Backend Development and Artificial Intelligence**.
-- 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops and Deployment etc.**
+- 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops, BI Dashboard tools, AI Agents etc.**
 - ❤️ I enjoy coding, exploring new technologies, and solving complex problems.
 
 ### ⚡ Technical Skills:
@@ -56,8 +56,21 @@
   - **Backend**: Python (Numpy, Pandas, GeoPandas, Matplotlib, Keras, TensorFlow, Flask, GDAL, Shap, SQLAlchemy, Folium).
   - **Frontend**: HTML5, CSS, JavaScript.
   - **Database**: PostgreSQL.
+
+#### 2-**📊 BI Analytics Dashboard | Deep Analysis of Underemployment in Morocco between (2017–2023)**  
+[📽 Demo on LinkedIn](https://www.linkedin.com/posts/hamza-rachidi-igt_businessintelligence-dataanalytics-sousemploi-activity-7326577783726366720-htWO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy7E28Bset3BG8lQHmaZPAmhGzw3YnLvFw)
+- **Objective**: Development of an interactive dashboard to analyze the spatial and demographic distribution of underemployment (situations where workers are employed in roles below their capacity—either in time or in quality) in Morocco from 2017 to 2023. The project contributes to territorial Business Intelligence in support of the Sustainable Development Goal No 8 – Decent Work and Economic Growth.
+- **Key Features**:
+  - **Dynamic Filtering** of key indicators by region(s), the year, gender, area of residence (urban/rural), underemployment rate range.
+  - **Analytical Graphs** comparing regional trends by sex and underemployment rate range.
+  - **Spatial Exploration** through choropleth maps, proportional symbols with contextual legends.
+- **Technologies Used**:
+  - **🧠 Data Engineering**: Python, Geo Pandas, R, Jupyter Notebook
+  - OCR to extract data from image reports
+  - **📊 BI & Visualization**: ArcGIS Dashboards
+  - **🖌️ UX Design**: Figma
  
-#### 2- **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer**
+#### 3- **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer**
 - **Objective**: Development of a CI/CD pipeline to automate the build, lint, testing, and deployment of a CLI application designed to interact with a vehicle management server. The project integrates continuous integration, containerization with Docker, and automated deployment to ensure software reliability and maintainability.
 - **Key Features**:
   - Developed a command line interface using Commander JavaScript framework that serves as a HTTP client for the server developed with Nodejs.   
@@ -69,7 +82,7 @@
   - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
   - **Programming & Testing**: TypeScript ( Commander ) , Jest, ESLint
 
-#### 3- **♟️3D Chess**
+#### 4- **♟️3D Chess**
 ![Demo](images/animation.gif)
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:
@@ -81,7 +94,7 @@
   - Programming Language: **C++**
   - Build Tool: **CMake**
 
-#### 4- **🗺️ Mini-GIS Project | Backend Developer in a classteam**  
+#### 5- **🗺️ Mini-GIS Project | Backend Developer in a classteam**  
 [Video Here](https://www.youtube.com/watch?v=YYriKDjRbh0)
 - **Description**: A full-featured, user-friendly, free, and open-source Geographical Information System (GIS) designed for Unix platforms.  
 - **Key Features**:  
@@ -98,7 +111,7 @@
   - Build Tool: **CMake**
   - Agile Methodology : **Scrum**
 
-#### 5- **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
+#### 6- **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
 - **Description**: Development of a QGIS plugin that enables users to extract, analyze, and visualize relative information around a selected point. The tool integrates coordinate transformation, reverse geocoding, spatial analysis, and buffers visualization.  
 
 - **Key Features**:   

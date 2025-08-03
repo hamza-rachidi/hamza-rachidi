@@ -70,10 +70,8 @@
 ### 3‑**🤖 AI-Powered Web Application to share user experiences and interact with its realted metadata using Natural‑Language | AI, Devops and Backend Web Developer in a team**  
 <img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/43ddf8ab-f7fc-4d57-8b68-869a3b6fb034" />
 
-**Objective:**  
-My part of responsability is to design and deploy an AI agent which empowers registered users to **store**, **query**, **comment** and **auto-complete** metadata of published user experiences that are stored in a Neo4j graph database all by using **human‑language input**. I also dockerised the web application to be portable, and implemented as well the backend structure of the React web application so as to connect with Neo4J and the front UX interface.  
-
-**Key Features:**  
+- **Objective**: My part of responsability is to design and deploy an AI agent which empowers registered users to **store**, **query**, **comment** and **auto-complete** metadata of published user experiences that are stored in a Neo4j graph database all by using **human‑language input**. I also dockerised the web application to be portable, and implemented as well the backend structure of the React web application so as to connect with Neo4J and the front UX interface.  
+- **Key Features**:
   - Create functions to store nodes & relationships efficiently via human conversational input.
   - Natural‑language query → Action : Metadata Creation and Storage, Search & Auto-completion.
   - REST routing in **Express.js** handling AI‑agent integration and Neo4j access via users requests.   

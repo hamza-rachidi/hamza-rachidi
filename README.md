@@ -69,7 +69,7 @@
  
 ### 3‑**🤖 AI-Powered Web Application to share user experiences and interact with its realted metadata using Natural‑Language | AI, Devops and Backend Web Developer in a team**  
 <img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/43ddf8ab-f7fc-4d57-8b68-869a3b6fb034" />
-🛠️ *Implemented by Hamza Rachidi – front-end, back-end, Neo4j logic, and full Docker container orchestration* ([GitHub Repository](https://github.com/hamza-rachidi/Geodata-Experience-Sharing-Platform))
+
 **Objective:**  
 My part of responsability is to design and deploy an AI agent which empowers registered users to **store**, **query**, **comment** and **auto-complete** metadata of published user experiences that are stored in a Neo4j graph database all by using **human‑language input**. I also dockerised the web application to be portable, and implemented as well the backend structure of the React web application so as to connect with Neo4J and the front UX interface.  
 

@@ -18,8 +18,8 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🎓 Currently studying information systems and data science at ENSG engineering school
-- 💼 Had my first degree as a geodata engineer.
+- 🎓 Preparing for a second MEng Degree in Information systems and data engineering at ENSG engineering school
+- 💼 Had my first 5years degree as a (geo) data engineer.
 - 🌱 Continuous learning of **Backend Development and Artificial Intelligence**.
 - 🔭 Focused on projects related to **Data and AI using Python and SQL, Server and Client with Nodejs, Web Development, Devops, BI Dashboard tools, AI Agents etc.**
 - ❤️ I enjoy coding, exploring new technologies, and solving complex problems.
@@ -42,7 +42,7 @@
 ### 🚀 Iconic Projects I've Worked On:
 
 #### 1- **☀️IRESEN | Developed a Web Application to Monitor Huge Solar Farms by Deploying a Deep Learning Model for Computer Vision along with Web Mapping and Data Visualisation**
-[📽 Demo Here](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
+[📽 Demo on LinkedIn](https://www.linkedin.com/posts/hamza-rachidi-igt_data-energy-datavisualization-activity-7015311398507266048-M7gP?utm_source=share&utm_medium=member_desktop)
 - **Objective**: Development of a Web Application to monitor large photovoltaic farms using a client-server architecture and a deep learning model to detect thermal defects.
 - **Key Features**:
   - **Site Prospection**: Evaluated optimal sites for new photovoltaic plants using web mapping.
@@ -67,7 +67,26 @@
   - **📊 BI & Visualization**: ArcGIS Dashboards
   - **🖌️ UX Design**: Figma
  
-#### 3- **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer**
+### 3‑**🤖 AI-Powered Web Application to share user experiences and interact with its realted metadata using Natural‑Language | AI, Devops and Backend Web Developer in a team**  
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/43ddf8ab-f7fc-4d57-8b68-869a3b6fb034" />
+🛠️ *Implemented by Hamza Rachidi – front-end, back-end, Neo4j logic, and full Docker container orchestration* ([GitHub Repository](https://github.com/hamza-rachidi/Geodata-Experience-Sharing-Platform))
+**Objective:**  
+My part of responsability is to design and deploy an AI agent which empowers registered users to **store**, **query**, **comment** and **auto-complete** metadata of published user experiences that are stored in a Neo4j graph database all by using **human‑language input**. I also dockerised the web application to be portable, and implemented as well the backend structure of the React web application so as to connect with Neo4J and the front UX interface.  
+
+**Key Features:**  
+  - Create functions to store nodes & relationships efficiently via human conversational input.
+  - Natural‑language query → Action : Metadata Creation and Storage, Search & Auto-completion.
+  - REST routing in **Express.js** handling AI‑agent integration and Neo4j access via users requests.   
+  - Fully **Dockerized** architecture: separate containers.
+  - Build the LLM front end chatbot window with the React.js framework and The UX design in Figma 
+
+**Technologies Used:**  
+  - **Backend**: Node.js + Express.js & Neo4j Driver  
+  - **Data Engineering and AI**: Neo4j graph databases & Cypher & AI prompt engineering and Tool Calling with OpenAI API (gpt‑3.5‑turbo)
+  - **UX Design**: Figma 
+  - **Deployment**: Docker Compose
+ 
+#### 4- **CI/CD DevOps | Continuous Deployment and Continuous Integration for a Vehicle Management CLI after coding the client side | Collabaration with another developer**
 - **Objective**: Development of a CI/CD pipeline to automate the build, lint, testing, and deployment of a CLI application designed to interact with a vehicle management server. The project integrates continuous integration, containerization with Docker, and automated deployment to ensure software reliability and maintainability.
 - **Key Features**:
   - Developed a command line interface using Commander JavaScript framework that serves as a HTTP client for the server developed with Nodejs.   
@@ -79,7 +98,7 @@
   - **CI/CD & Deployment**: GitHub Actions, Docker, Docker Hub
   - **Programming & Testing**: TypeScript ( Commander ) , Jest, ESLint
 
-#### 4- **♟️3D Chess**
+#### 5- **♟️3D Chess**
 ![Demo](images/animation.gif)
 - **Description**: A 3D chess game simulation where pieces move according to chess rules.
 - **Key Features**:
@@ -91,7 +110,7 @@
   - Programming Language: **C++**
   - Build Tool: **CMake**
 
-#### 5- **🗺️ Mini-GIS Project | Backend Developer in a classteam**  
+#### 6- **🗺️ Mini-GIS Project | Backend Developer in a classteam**  
 [Youtube Video Here](https://www.youtube.com/watch?v=YYriKDjRbh0)
 - **Description**: A full-featured, user-friendly, free, and open-source Geographical Information System (GIS) designed for Unix platforms.  
 - **Key Features**:  
@@ -108,7 +127,7 @@
   - Build Tool: **CMake**
   - Agile Methodology : **Scrum**
 
-#### 6- **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
+#### 7- **🌍A QGIS Plugin | A Small Class project for Geographic Data Analysis**  
 - **Description**: Development of a QGIS plugin that enables users to extract, analyze, and visualize relative information around a selected point. The tool integrates coordinate transformation, reverse geocoding, spatial analysis, and buffers visualization.  
 
 - **Key Features**:   
